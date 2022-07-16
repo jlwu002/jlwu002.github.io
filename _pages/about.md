@@ -12,9 +12,9 @@ redirect_from:
 Hi, I am a 2nd year Ph.D. student at Washington University in St. Louis.
 
 # Education
-* B.S. in Mathematics and Applied mathematics, School of the Gifted Young, University of Science and Technology of China
-* M.S. in Mathematical Finance, Boston University
 * Ph.D. in Computer Science, Washington University in St. Louis
+* M.S. in Mathematical Finance, Boston University
+* B.S. in Mathematics and Applied mathematics, School of the Gifted Young, University of Science and Technology of China
 
 # Publications
 - Junlin Wu and Yevgeniy Vorobeychik. [Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum](https://arxiv.org/pdf/2206.10057.pdf). (ICML 2022).
