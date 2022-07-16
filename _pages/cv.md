@@ -37,6 +37,10 @@ Education
 * Skill 3
  -->
 Publications
+- Junlin Wu, Charles Kamhoua, Murat Kantarcioglu and Yevgeniy Vorobeychik. Learning Generative Deception Strategies in Combinatorial Masking Games. (GameSec 2021).
+- Junlin Wu and Yevgeniy Vorobeychik. Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum. (ICML 2022), to appear.
+- Junlin Wu, Andrew Estornell, Lecheng Kong, and Yevgeniy Vorobeychik. Manipulating Elections by Changing Voter Perceptions. (IJCAI 2022), to appear.
+
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
