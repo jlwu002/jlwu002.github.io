@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Applied mathematics, University of Science and Technology of China
-* M.S. in Jekyll, Boston University
+* M.S. in Mathematical Finance, Boston University
 * Ph.D in Computer Science, Washington University in St. Louis
 
 <!-- Work experience
