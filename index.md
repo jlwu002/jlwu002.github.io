@@ -1,30 +1,33 @@
 ```bio-meta
 {
-    "name": "J. Doe",
-    "title": "J. Doe | Curriculum Vitae",
-    "description": "J. Doe&#8217;s curriculum vitae.",
-    "url": "https://GeeLaw.github.io/bio-site/",
-    "assets": "https://GeeLaw.github.io/bio-site/assets",
-    "date-created": "2020-04-21",
-    "repo": "https://github.com/GeeLaw/bio-site",
+    "name": "Junlin Wu",
+    "title": "Junlin Wu | Curriculum Vitae",
+    "description": "Junlin Wu&#8217;s curriculum vitae.",
+    "url": "https://jlwu002.github.io/bio-site/",
+    "assets": "https://jlwu002.github.io/bio-site/assets",
+    "date-created": "2023-08-25",
+    "repo": "https://github.com/jlwu002/bio-site",
     "tilecolor": "#f2f2f2"
 }
 ```
 
-# J.&nbsp;Doe
+# Junlin&nbsp;Wu
 
-<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
+<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/avatar.png" alt="A photo of Junlin Wu" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I’m a second-year Ph.D. student in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
+I’m a third-year Ph.D. student at Washington University in St. Louis, advised by Prof. [Yevgeniy Vorobeychik](https://vorobeychik.com/). I am interested in Adversarial AI, Reinforcement Learning, Computational Social Choice and Safe Control. I can be reached at junlin.wu at wustl dot edu.
 
-Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
-
-I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
+## Education
+- Ph.D. in Computer Science, Washington University in St. Louis (01/2021 - present)
+- M.S. in Mathematical Finance, Boston University
+- B.S. in Mathematics and Applied Mathematics, School of the Gifted Young, University of Science and Technology of China
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
 Change the encoding for your own email address.
 ```
+
+
 
 <!--[bio][protect]
 <script type="application/javascript">
@@ -39,9 +42,32 @@ eml.removeAttribute('class');
 </script>
 [bio]-->
 
-This is an example personal homepage built with [bio-site](https://github.com/GeeLaw/bio-site). It features simplicity and integration with BibTeX.
+<!-- This is an example personal homepage built with [bio-site](https://github.com/jlwu002/bio-site). It features simplicity and integration with BibTeX. -->
 
-## Building Blocks
+## Publications
+- Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. Neural Lyapunov Control for Discrete-Time Systems. (NeurIPS 2023)
+
+- Hongchao Zhang, Junlin Wu, Yevgeniy Vorobeychik and Andrew Clark. Exact Verification of ReLU Neural Control Barrier Functions. (NeurIPS 2023) (co-primary author)
+
+- Junlin Wu and Yevgeniy Vorobeychik. [Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum](https://arxiv.org/pdf/2206.10057.pdf). (ICML 2022).
+
+- Junlin Wu, Andrew Estornell, Lecheng Kong, and Yevgeniy Vorobeychik. [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/pdf/2205.00102.pdf). (IJCAI 2022) **Long Oral Presentation (3.75%)**.
+
+- Junlin Wu, Charles Kamhoua, Murat Kantarcioglu and Yevgeniy Vorobeychik. [Learning Generative Deception Strategies in Combinatorial Masking Games](https://arxiv.org/pdf/2109.11637.pdf). (GameSec 2021).
+
+## Under Review
+- Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. Learning Provably Robust Lyapunov Stable Control.
+
+- Junlin Wu, Hussein Sibai and Yevgeniy Vorobeychik. Certifying Safety in Reinforcement Learning under Adversarial Perturbation Attacks.
+
+## Honors/Awards
+- Graduate Danforth Scholar (2021 - 2025)
+- Certified Financial Risk Manager (FRM) 
+- Honorable Mention Award in Mathematical Contest in Modeling
+- Outstanding Undergraduate Scholarship for three consecutive years
+- Outstanding Freshman Scholarship
+
+<!-- ## Building Blocks
 
 ```blog-bib
 
@@ -61,7 +87,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
     General-Purpose Format-Preserving {{\BibTeX}} Parser
     in {T}ype{S}cript ({J}ava{S}cript)},
 
-  biosite_url = {https://github.com/GeeLaw/bibtex-ts},
+  biosite_url = {https://github.com/jlwu002/bibtex-ts},
   biosite_venue = {GitHub},
   biosite_slides = {#},
 }
@@ -123,4 +149,4 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   biosite_url = {#},
   biosite_arialabel = {Link with Annotated Equation e to the i times pi plus one equals zero}
 }
-```
+``` -->
