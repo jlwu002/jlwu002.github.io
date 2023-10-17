@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/avatar.png" alt="A photo of Junlin Wu" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I’m a third-year Ph.D. student at Washington University in St. Louis, advised by Prof. [Yevgeniy Vorobeychik](https://vorobeychik.com/). I am interested in Adversarial AI, Reinforcement Learning, Computational Social Choice and Safe Control. I can be reached at junlin.wu at wustl dot edu.
+I’m a third-year Ph.D. student at Washington University in St. Louis, advised by Prof. [Yevgeniy Vorobeychik](https://vorobeychik.com/). I am interested in Adversarial AI, Reinforcement Learning, Safe Control and Computational Social Choice. I can be reached at junlin.wu at wustl dot edu.
 
 ## Education
 - Ph.D. in Computer Science, Washington University in St. Louis (01/2021 - present)
