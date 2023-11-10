@@ -45,9 +45,9 @@ eml.removeAttribute('class');
 <!-- This is an example personal homepage built with [bio-site](https://github.com/jlwu002/bio-site). It features simplicity and integration with BibTeX. -->
 
 ## Publications
-- Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. Neural Lyapunov Control for Discrete-Time Systems. (NeurIPS 2023)
+- Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. [Neural Lyapunov Control for Discrete-Time Systems](https://arxiv.org/pdf/2305.06547.pdf). (NeurIPS 2023)
 
-- Hongchao Zhang, Junlin Wu, Yevgeniy Vorobeychik and Andrew Clark. Exact Verification of ReLU Neural Control Barrier Functions. (NeurIPS 2023) (co-primary author)
+- Hongchao Zhang, Junlin Wu, Yevgeniy Vorobeychik and Andrew Clark. [Exact Verification of ReLU Neural Control Barrier Functions](https://arxiv.org/pdf/2310.09360.pdf). (NeurIPS 2023) (co-primary author)
 
 - Junlin Wu and Yevgeniy Vorobeychik. [Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum](https://arxiv.org/pdf/2206.10057.pdf). (ICML 2022).
 
