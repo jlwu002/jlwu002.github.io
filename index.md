@@ -45,20 +45,38 @@ eml.removeAttribute('class');
 <!-- This is an example personal homepage built with [bio-site](https://github.com/jlwu002/bio-site). It features simplicity and integration with BibTeX. -->
 
 ## Publications
-- Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. [Neural Lyapunov Control for Discrete-Time Systems](https://arxiv.org/pdf/2305.06547.pdf). (NeurIPS 2023)
+- [Neural Lyapunov Control for Discrete-Time Systems](https://arxiv.org/pdf/2305.06547.pdf). <br />
+Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. <br />
+_37th Conference on Neural Information Processing Systems (NeurIPS 2023)._
 
-- Hongchao Zhang, Junlin Wu, Yevgeniy Vorobeychik and Andrew Clark. [Exact Verification of ReLU Neural Control Barrier Functions](https://arxiv.org/pdf/2310.09360.pdf). (NeurIPS 2023) (co-primary author)
 
-- Junlin Wu and Yevgeniy Vorobeychik. [Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum](https://arxiv.org/pdf/2206.10057.pdf). (ICML 2022).
+- [Exact Verification of ReLU Neural Control Barrier Functions](https://arxiv.org/pdf/2310.09360.pdf). <br />
+Hongchao Zhang\*, Junlin Wu\*, Yevgeniy Vorobeychik and Andrew Clark. (\*co-primary author) <br />
+_37th Conference on Neural Information Processing Systems (NeurIPS 2023)._
 
-- Junlin Wu, Andrew Estornell, Lecheng Kong, and Yevgeniy Vorobeychik. [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/pdf/2205.00102.pdf). (IJCAI 2022) **Long Oral Presentation (3.75%)**.
 
-- Junlin Wu, Charles Kamhoua, Murat Kantarcioglu and Yevgeniy Vorobeychik. [Learning Generative Deception Strategies in Combinatorial Masking Games](https://arxiv.org/pdf/2109.11637.pdf). (GameSec 2021).
+- [Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum](https://arxiv.org/pdf/2206.10057.pdf). <br />
+Junlin Wu and Yevgeniy Vorobeychik. <br />
+_39th International Conference on Machine Learning (ICML 2022)._
+
+
+- [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/pdf/2205.00102.pdf). <br />
+Junlin Wu, Andrew Estornell, Lecheng Kong, and Yevgeniy Vorobeychik. <br />
+**Long Oral Presentation (3.75%)**. <br />
+_31st International Joint Conference on Artificial Intelligence (IJCAI 2022)._
+
+
+- [Learning Generative Deception Strategies in Combinatorial Masking Games](https://arxiv.org/pdf/2109.11637.pdf). <br />
+Junlin Wu, Charles Kamhoua, Murat Kantarcioglu and Yevgeniy Vorobeychik. <br />
+_12th Conference on Decision and Game Theory for Security (GameSec 2021)._
+
 
 ## Under Review
-- Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. Learning Provably Robust Lyapunov Stable Control.
+- Learning Provably Robust Lyapunov Stable Control. <br />
+Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. 
 
-- Junlin Wu, Hussein Sibai and Yevgeniy Vorobeychik. Certifying Safety in Reinforcement Learning under Adversarial Perturbation Attacks.
+- Certifying Safety in Reinforcement Learning under Adversarial Perturbation Attacks. <br />
+Junlin Wu, Hussein Sibai and Yevgeniy Vorobeychik.
 
 ## Honors/Awards
 - Graduate Danforth Scholar (2021 - 2025)
