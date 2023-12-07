@@ -27,8 +27,6 @@ Below we use a simple mechanism to mitigate email address reaping.
 Change the encoding for your own email address.
 ```
 
-
-
 <!--[bio][protect]
 <script type="application/javascript">
 window.setTimeout(function ()
@@ -72,6 +70,9 @@ _12th Conference on Decision and Game Theory for Security (GameSec 2021)._
 
 
 ## Under Review
+- On the Exploitability of Reinforcement Learning with Human Feedback for Large Language Models. <br />
+Jiongxiao Wang, Junlin Wu, Muhao Chen, Yevgeniy Vorobeychik, Chaowei Xiao. 
+
 - Learning Provably Robust Lyapunov Stable Control. <br />
 Junlin Wu, Andrew Clark, Yiannis Kantaros and Yevgeniy Vorobeychik. 
 
