@@ -2,4 +2,5 @@ main:
 
   - title: "Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees"
     authors: Xinhang Ma, <strong>Junlin Wu</strong>, Hussein Sibai, Yiannis Kantaros, Yevgeniy Vorobeychik
+    pdf: https://arxiv.org/pdf/2503.00191
     keyword: "Keywords: Verified Safe Controller"
