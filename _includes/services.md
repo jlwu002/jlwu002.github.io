@@ -13,6 +13,7 @@
   <li><a href="https://kdd2024.kdd.org/" target="_blank" rel="noopener noreferrer"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024</autocolor></a></li>
   <li><a href="https://cdc2024.ieeecss.org/" target="_blank" rel="noopener noreferrer"><autocolor>IEEE Conference on Decision and Control (CDC) 2024</autocolor></a></li>
   <li><a href="https://icml.cc/" target="_blank" rel="noopener noreferrer"><autocolor>International Conference on Machine Learning (ICML) 2022</autocolor></a></li>
+  <li><a href="https://www.iros25.org/" target="_blank" rel="noopener noreferrer"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewing</h4>
