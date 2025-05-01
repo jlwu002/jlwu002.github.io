@@ -8,7 +8,7 @@
   <li><a href="https://neurips.cc/" target="_blank" rel="noopener noreferrer"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
   <li><a href="https://aamas2025.org/" target="_blank" rel="noopener noreferrer"><autocolor>International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023, 2025</autocolor></a></li>
   <li><a href="https://ijcai24.org/" target="_blank" rel="noopener noreferrer"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2024</autocolor></a></li>
-  <li><a href="https://cvpr.thecvf.com/" target="_blank" rel="noopener noreferrer"><autocolor>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024</autocolor></a></li>
+  <li><a href="https://cvpr.thecvf.com/" target="_blank" rel="noopener noreferrer"><autocolor>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024, 2025</autocolor></a></li>
   <li><a href="https://eccv2024.ecva.net/" target="_blank" rel="noopener noreferrer"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
   <li><a href="https://kdd2024.kdd.org/" target="_blank" rel="noopener noreferrer"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024</autocolor></a></li>
   <li><a href="https://cdc2024.ieeecss.org/" target="_blank" rel="noopener noreferrer"><autocolor>IEEE Conference on Decision and Control (CDC) 2024</autocolor></a></li>
