@@ -1,0 +1,57 @@
+baseurl: ""
+url: "https://jlwu002.github.io/"
+
+# Basic Information 
+title: Junlin Wu
+position: Ph.D. in Computer Science
+affiliation: Washington University in St. Louis
+email: junlin.wu (at) wustl.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Junlin Wu, Computer Science, Reinforcement Learning, Large Language Models, Adversarial Robustness, Control, Machine Learning, Washington University in St. Louis
+description: Computer Science Ph.D. student at Washington University in St. Louis, advised by Prof. Yevgeniy Vorobeychik.
+canonical: https://jlwu002.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=nKeNsv8AAAAJ&hl=en&oi=ao
+# cv_link: assets/files/curriculum_vitae.pdf
+# github_link: https://github.com/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/logo.png
+favicon_dark: ./assets/img/logo.png
+
+# favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
+
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
