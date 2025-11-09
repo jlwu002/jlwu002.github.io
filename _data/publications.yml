@@ -4,7 +4,7 @@ main:
     conference_short: AAAI2025
     conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     pdf: https://arxiv.org/abs/2503.00191
-    keyword: "Keywords: Vision-Based Control, Safe Reinforcement Learning,"
+    keyword: "Keywords: Vision-Based Control, Safe Reinforcement Learning"
 
   - title: "Preference Poisoning Attacks on Reward Model Learning"
     authors: "<strong>Junlin Wu</strong>, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik"
