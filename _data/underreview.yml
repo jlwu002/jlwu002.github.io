@@ -1,5 +1,13 @@
 main:
 
-  - title: "Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees"
-    authors: Xinhang Ma, <strong>Junlin Wu</strong>, Hussein Sibai, Yiannis Kantaros, Yevgeniy Vorobeychik
-    keyword: "Keywords: Verified Safe Controller"
+  - title: "DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning"
+    authors: Yifan Wang, Bolian Li, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Zheli Liu, Ruqi Zhang, Ananth Grama, Qingkai Zeng
+    pdf: https://arxiv.org/pdf/2510.02341
+
+  - title: "From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization"
+    authors: Zehong Wang, <strong>Junlin Wu</strong>, ZHaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
+    pdf: https://arxiv.org/pdf/2509.23767
+
+  - title: "Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning"
+    authors: <strong>Junlin Wu</strong>, Xianrui Zhong, Jiashuo Sun, Bolian Li, Bowen Jin, Jiawei Han, Qingkai Zeng
+    pdf: https://arxiv.org/pdf/2510.15191
