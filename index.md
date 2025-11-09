@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a final-year Computer Science Ph.D. student at Washington University in St. Louis, advised by Prof. [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html). I hold a Master’s degree in Mathematical Finance from Boston University and a B.S. in Mathematics and Applied Mathematics from the University of Science and Technology of China, School of the Gifted Young.
+Hi there! I am an Applied Scientist at Amazon. I hold a Ph.D. in Computer Science from Washington University in St. Louis, where I was advised by Prof. [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html). I hold a Master’s degree in Mathematical Finance from Boston University and a B.S. in Mathematics and Applied Mathematics from the University of Science and Technology of China, School of the Gifted Young.
 
 
 ## Research Interests
