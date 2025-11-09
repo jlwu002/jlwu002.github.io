@@ -1,4 +1,16 @@
 main:
+  - title: "Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees"
+    authors: Xinhang Ma, <strong>Junlin Wu</strong>, Hussein Sibai, Yiannis Kantaros, Yevgeniy Vorobeychik
+    conference_short: AAAI2025
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+
+  - title: "Preference Poisoning Attacks on Reward Model Learning"
+    authors: "<strong>Junlin Wu</strong>, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik"
+    conference_short: IEEE S&P 2025
+    conference: 46th IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2025.
+    pdf: https://www.computer.org/csdl/proceedings-article/sp/2025/223600a094/22K50qfo1PO
+    keyword: "Keywords: Reward Model Learning, LLMs, Adversarial Robustness"
+    
   - title: "Verified Safe Reinforcement Learning for Neural Network Dynamic Models"
     authors: <strong>Junlin Wu</strong>, Huan Zhang, Yevgeniy Vorobeychik
     conference_short: NeurIPS 2024
@@ -12,13 +24,6 @@ main:
     conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2405.14758
     keyword: "Keywords: Computational Social Choice, Learning from Human Feedback, AI Alignment"
-
-  - title: "Preference Poisoning Attacks on Reward Model Learning"
-    authors: "<strong>Junlin Wu</strong>, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik"
-    conference_short: IEEE S&P 2025
-    conference: 46th IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2025.
-    pdf: https://www.computer.org/csdl/proceedings-article/sp/2025/223600a094/22K50qfo1PO
-    keyword: "Keywords: Reward Model Learning, LLMs, Adversarial Robustness"
 
   - title: "RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models"
     authors: Jiongxiao Wang, <strong>Junlin Wu</strong>, Muhao Chen, Yevgeniy Vorobeychik, Chaowei Xiao
