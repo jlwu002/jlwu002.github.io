@@ -4,6 +4,7 @@ main:
     authors: Xinhang Ma, <strong>Junlin Wu</strong>, Yiannis Kantaros, Yevgeniy Vorobeychik
     conference_short: AAMAS 2026
     conference: The 25th International Conference on Autonomous Agents and Multi-Agent Systems <strong>(AAMAS)</strong>, 2026.
+    pdf: https://openreview.net/forum?id=mTJCasvyip
     keyword: "Keywords: Safe Reinforcement Learning"
     
   - title: "Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees"
