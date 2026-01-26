@@ -5,11 +5,6 @@ main:
     pdf: https://arxiv.org/pdf/2510.15191
     keyword: "Keywords: Reinforcement Learning, Structured Reasoning, Large Language Models"
 
-  - title: "DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning"
-    authors: Yifan Wang, Bolian Li, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Zheli Liu, Ruqi Zhang, Ananth Grama, Qingkai Zeng
-    pdf: https://arxiv.org/pdf/2510.02341
-    keyword: "Keywords: Preference Learning, Human Feedback, Implicit Rewards, Large Language Models"
-
   - title: "From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization"
     authors: Zehong Wang, <strong>Junlin Wu</strong>, ZHaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
     pdf: https://arxiv.org/pdf/2509.23767
