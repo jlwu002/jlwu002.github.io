@@ -6,6 +6,6 @@ main:
     keyword: "Keywords: Reinforcement Learning, Structured Reasoning, Large Language Models"
 
   - title: "From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization"
-    authors: Zehong Wang, <strong>Junlin Wu</strong>, ZHaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
+    authors: Zehong Wang, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
     pdf: https://arxiv.org/pdf/2509.23767
     keyword: "Keywords: LLM Personalization, Memory-Augmented Models, Adaptive Alignment"
