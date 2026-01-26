@@ -1,5 +1,12 @@
 main:
 
+  - title: "DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning"
+    authors: Yifan Wang, Bolian Li, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Zheli Liu, Ruqi Zhang, Ananth Grama, Qingkai Zeng
+    conference_short: ICLR 2026
+    conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2510.02341
+    keyword: "Keywords: LLMs"
+
   - title: "Conformal Reachability for Safe Control in Unknown Environments"
     authors: Xinhang Ma, <strong>Junlin Wu</strong>, Yiannis Kantaros, Yevgeniy Vorobeychik
     conference_short: AAMAS 2026
