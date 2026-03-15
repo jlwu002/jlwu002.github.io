@@ -1,0 +1,10 @@
+main:
+
+
+  - title: "From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization"
+    authors: Zehong Wang, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
+    pdf: https://arxiv.org/pdf/2509.23767
+
+  - title: "Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning"
+    authors: <strong>Junlin Wu</strong>, Xianrui Zhong, Jiashuo Sun, Bolian Li, Bowen Jin, Jiawei Han, Qingkai Zeng
+    pdf: https://arxiv.org/pdf/2510.15191

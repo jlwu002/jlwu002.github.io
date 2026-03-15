@@ -1,0 +1,126 @@
+main:
+  - title: "Structure-R1: Dynamically Leveraging Structural Knowledge in LLM Reasoning through Reinforcement Learning"
+    authors: <strong>Junlin Wu</strong>, Xianrui Zhong, Jiashuo Sun, Bolian Li, Bowen Jin, Jiawei Han, Qingkai Zeng
+    conference_short: Preprint
+    preprint: Preprint
+    pdf: https://arxiv.org/pdf/2510.15191
+    area: "LLM / Learning from Feedback"
+
+  - title: "From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization"
+    authors: Zehong Wang, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
+    conference_short: Preprint
+    preprint: Preprint
+    pdf: https://arxiv.org/pdf/2509.23767
+    area: "LLM / Learning from Feedback"
+
+  - title: "Conformal Reachability for Safe Control in Unknown Environments"
+    authors: Xinhang Ma, <strong>Junlin Wu</strong>, Yiannis Kantaros, Yevgeniy Vorobeychik
+    conference_short: AAMAS 2026
+    conference: The 25th International Conference on Autonomous Agents and Multi-Agent Systems <strong>(AAMAS 2026)</strong>
+    pdf: https://openreview.net/forum?id=mTJCasvyip
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "DRIFT: Learning from Abundant User Dissatisfaction in Real-World Preference Learning"
+    authors: Yifan Wang, Bolian Li, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Zheli Liu, Ruqi Zhang, Ananth Grama, Qingkai Zeng
+    conference_short: ICLR 2026
+    conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR 2026)</strong>
+    pdf: https://arxiv.org/pdf/2510.02341
+    area: "LLM / Learning from Feedback"
+
+  - title: "Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees"
+    authors: Xinhang Ma, <strong>Junlin Wu</strong>, Hussein Sibai, Yiannis Kantaros, Yevgeniy Vorobeychik
+    conference_short: AAAI 2026
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong>
+    pdf: https://arxiv.org/abs/2503.00191
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "Preference Poisoning Attacks on Reward Model Learning"
+    authors: "<strong>Junlin Wu</strong>, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik"
+    conference_short: IEEE S&P 2025
+    conference: 46th IEEE Symposium on Security and Privacy <strong>(IEEE S&P 2025)</strong>
+    pdf: https://www.computer.org/csdl/proceedings-article/sp/2025/223600a094/22K50qfo1PO
+    # keyword: "Keywords: Reward Model Learning, LLMs, Adversarial Robustness"
+    area: "LLM / Learning from Feedback"
+    
+  - title: "Verified Safe Reinforcement Learning for Neural Network Dynamic Models"
+    authors: <strong>Junlin Wu</strong>, Huan Zhang, Yevgeniy Vorobeychik
+    conference_short: NeurIPS 2024
+    conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2024)</strong>
+    pdf: https://arxiv.org/pdf/2405.15994
+    # keyword: "Keywords: Safe Reinforcement Learning, Verified Safe Controller, Curriculum Learning"
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "Axioms for AI Alignment from Human Feedback"
+    authors: "(α-β) Luise Ge, Daniel Halpern, Evi Micha, Ariel D. Procaccia, Itai Shapira, Yevgeniy Vorobeychik, <strong>Junlin Wu</strong>"
+    conference_short: NeurIPS 2024
+    conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2024, Spotlight)</strong>
+    pdf: https://arxiv.org/pdf/2405.14758
+    # keyword: "Keywords: Computational Social Choice, Learning from Human Feedback, AI Alignment"
+    area: "LLM / Learning from Feedback"
+
+
+  - title: "RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models"
+    authors: Jiongxiao Wang, <strong>Junlin Wu</strong>, Muhao Chen, Yevgeniy Vorobeychik, Chaowei Xiao
+    conference_short: ACL 2024
+    conference: The 62nd Annual Meeting of the Association for Computational Linguistics <strong>(ACL 2024, main)</strong>
+    pdf: https://aclanthology.org/2024.acl-long.140.pdf
+    # keyword: "Keywords: LLMs, Reinforcement Learning with Human Feedback, Adversarial Robustness"
+    area: "LLM / Learning from Feedback"
+
+  - title: "Certifying Safety in Reinforcement Learning under Adversarial Perturbation Attacks"
+    authors: <strong>Junlin Wu</strong>, Hussein Sibai, Yevgeniy Vorobeychik 
+    conference_short: SPW 2024
+    conference: 2024 IEEE Security and Privacy Workshops <strong>(SPW 2024)</strong>
+    pdf: https://www.computer.org/csdl/proceedings-article/spw/2024/548700a057/1YiWllGb0l2
+    # keyword: "Keywords: Reinforcement Learning, Certified Robustness, Adversarial Training"
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "Neural Lyapunov Control for Discrete-Time Systems"
+    authors: <strong>Junlin Wu</strong>, Andrew Clark, Yiannis Kantaros, Yevgeniy Vorobeychik
+    conference_short: NeurIPS 2023
+    conference: 37th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2023)</strong>
+    pdf: https://arxiv.org/pdf/2305.06547
+    # keyword: "Keywords: Learning-Based Control, Cerfitied Robustness, Neural Network Controller"
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "Exact Verification of ReLU Neural Control Barrier Functions"
+    authors: Hongchao Zhang, <strong>Junlin Wu</strong>, Yevgeniy Vorobeychik, Andrew Clark
+    conference_short: NeurIPS 2023
+    conference: 37th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2023)</strong>
+    pdf: https://arxiv.org/pdf/2310.09360
+    # keyword: "Keywords: Safety Verification, Nonlinear Dynamics, Neural Networks"
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "Robust Deep Reinforcement Learning through Bootstrapped Opportunistic Curriculum"
+    authors: <strong>Junlin Wu</strong>, Yevgeniy Vorobeychik
+    conference_short: ICML 2022
+    conference: 39th International Conference on Machine Learning <strong>(ICML 2022)</strong>
+    pdf: https://arxiv.org/pdf/2206.10057
+    # keyword: "Keywords: Reinforcement Learning, Curriculum Learning, Adversarial Robustness"
+    area: "Reinforcement Learning / Safe Control"
+
+  - title: "Manipulating Elections by Changing Voter Perceptions"
+    authors: <strong>Junlin Wu</strong>, Andrew Estornell, Lecheng Kong, Yevgeniy Vorobeychik
+    conference_short: IJCAI 2022
+    conference: 31st International Joint Conference on Artificial Intelligence <strong>(IJCAI 2022)</strong>
+    pdf: https://arxiv.org/pdf/2205.00102
+    # keyword: "Keywords: Computational Social Choice, Security and Privacy, Voter Manipulation"
+    notes: "Long Oral Presentation (170/4535≈3.75% acceptance rate)"
+    area: "Computational Social Choice / Game Theory"
+
+  - title: "Learning Generative Deception Strategies in Combinatorial Masking Games"
+    authors: <strong>Junlin Wu</strong>, Charles Kamhoua, Murat Kantarcioglu, Yevgeniy Vorobeychik
+    conference_short: GameSec 2021
+    conference: 12th Conference on Decision and Game Theory for Security <strong>(GameSec 2021)</strong>
+    pdf: https://arxiv.org/pdf/2109.11637
+    # keyword: "Keywords: Algorithmic Game Theory, Generative Adversarial Networks"
+    area: "Computational Social Choice / Game Theory"
+
+
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+    # summary: xxx
+    # summary: "Summary: We propose a novel reward poisoning attack, RLHFPoison, to manipulate the reward function of reinforcement learning agents with human feedback in large language models."
