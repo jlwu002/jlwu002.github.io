@@ -51,7 +51,7 @@ main:
     area: "Reinforcement Learning / Safe Control"
 
   - title: "Axioms for AI Alignment from Human Feedback"
-    authors: "(α-β) Luise Ge, Daniel Halpern, Evi Micha, Ariel D. Procaccia, Itai Shapira, Yevgeniy Vorobeychik, <strong>Junlin Wu</strong>"
+    authors: "(Alphabetical author ordering) Luise Ge, Daniel Halpern, Evi Micha, Ariel D. Procaccia, Itai Shapira, Yevgeniy Vorobeychik, <strong>Junlin Wu</strong>"
     conference_short: NeurIPS 2024
     conference: 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2024, Spotlight)</strong>
     pdf: https://arxiv.org/pdf/2405.14758
