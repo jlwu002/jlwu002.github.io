@@ -8,8 +8,8 @@ main:
 
   - title: "From Personal to Collective: On the Role of Local and Global Memory in LLM Personalization"
     authors: Zehong Wang, <strong>Junlin Wu</strong>, Zhaoxuan Tan, Bolian Li, Xianrui Zhong, Zheli Liu, Qingkai Zeng
-    conference_short: Preprint
-    preprint: Preprint
+    conference_short: ACL 2026
+    preprint: The 64th Annual Meeting of the Association for Computational Linguistics
     pdf: https://arxiv.org/pdf/2509.23767
     area: "LLM / Learning from Feedback"
 
